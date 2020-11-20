@@ -1,4 +1,4 @@
-# react-slider
+# [react-slider](https://enismulic.github.io/react-slider/)
 
 ## How to run
 
