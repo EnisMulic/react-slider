@@ -6,3 +6,10 @@
 git clone https://github.com/EnisMulic/react-slider
 npm install && npm start
 ```
+
+## Deploy to github pages
+
+```
+npm run deploy
+git push
+```
